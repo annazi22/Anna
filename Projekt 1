@@ -1,8 +1,33 @@
 <html>
-  <head>
+  <head> 
+    <p> Anna Zimmermann </p>
+    <link rel="stylesheet" type="text/css" href="styles.css">
   </head>
   <body>
-    <h1> Titel </h1>
-    <p> Hier steht ein Text. </p>
+    <h1> Learn Languige! </h1>
+    <h2> Schnell und einfach Sprachen lernen </h2>
+    <p> Englisch </p>
+    <a href=https://scratch.mit.edu/projects/681026611/> Kinder</a>
+    <a href=https://scratch.mit.edu/projects/681026611/> Jugendliche</a>
+    <a href=https://scratch.mit.edu/projects/681026611/> Erwachsene</a>
+    <p> Franzoesisch </p>
+    <p> Italienisch </p>
   </body>
-</html>
+<html/> 
+
+h1 {
+  color: turquoise;
+  background: purple
+}
+h2 {
+  color: turquoise;
+}
+p {
+  color: turquoise;
+}
+body {
+  background: gray;
+}
+head {
+  color: turquoise;
+}
